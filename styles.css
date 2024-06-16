@@ -94,4 +94,7 @@ p {
   h2 {
     font-size: 32px;
   }
+  .col-sm-6 {
+    margin-top: 12px;
+  }
 }
